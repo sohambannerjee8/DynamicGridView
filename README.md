@@ -1,6 +1,6 @@
 Dependency
 
-Volley.jar
+Volley.jar and 
 Picasso.jar
 
 How to use it?
